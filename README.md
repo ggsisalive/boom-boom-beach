@@ -18,7 +18,8 @@ the beat counts double. Build a streak for ×2, ×3, ×4.
   of the air), jellyfish in bubbles and pufferfish, and the King Crab boss on each song's last
   drop (jump its shockwaves).
 - **Moves:** double jump, dash (and long jumps out of it), a cannonball slam from the air,
-  bouncy beach umbrellas, stomping on critters. All better on the beat.
+  bouncy beach umbrellas, stomping on critters, and grinding the strings of party lights
+  between the palms (ollie on the beat!). All better on the beat.
 - Keyboard and mouse, or a game controller (with rumble). Fireworks if you clear a song.
 
 This repository holds only the built game that GitHub Pages serves. Early build: expect rough

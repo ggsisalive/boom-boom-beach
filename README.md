@@ -1,12 +1,12 @@
-# Beat Beach (working title)
+# Boom Boom Beach
 
 A hip hop rhythm shooter that runs in your browser, styled like a lost early-2000s console
-game. Toast the cat squirts the Desert Soaker .50 at beach critters, and everything you do on
+game. Toast the cat soaks beach critters with the Desert Soaker .50, and everything you do on
 the beat counts double. Build a streak for ×2, ×3, ×4.
 
-**Play:** https://greg.website/beat-beach/
+**Play:** https://greg.website/boom-boom-beach/
 
-- **Beat Beach FM:** four original songs, one per difficulty, each at its own time of day:
+- **Boom Boom FM:** four original songs, one per difficulty, each at its own time of day:
   Boardwalk Boom Bap (EASY, '90s boom bap, noon), Hyper Tide (MEDIUM, Y2K big beat,
   afternoon), Riptide Riot (HARD, surf punk, sunset) and Saltwater Jungle (EXPERT, drum & bass,
   night). Every beat is mapped, so they're perfectly in sync, and the critters follow each
@@ -23,4 +23,4 @@ the beat counts double. Build a streak for ×2, ×3, ×4.
 - Keyboard and mouse, or a game controller (with rumble). Fireworks if you clear a song.
 
 This repository holds only the built game that GitHub Pages serves. Early build: expect rough
-edges.
+edges. Open-source credits (three.js, the Fredoka and Nunito fonts): THIRD-PARTY-LICENSES.txt.

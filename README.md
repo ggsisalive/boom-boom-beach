@@ -1,14 +1,20 @@
 # Beat Beach (working title)
 
-A hip hop rhythm shooter that runs in your browser. Paste a YouTube link and play a run
-synced to that song: Toast the cat, a Desert Eagle, and a 2000s beach full of crabs, gulls
-and jellyfish. Everything you do on the beat counts double.
+A hip hop rhythm shooter that runs in your browser, styled like a lost early-2000s console
+game. Toast the cat squirts the Desert Soaker .50 at beach critters, and everything you do on
+the beat counts double. Build a streak for ×2, ×3, ×4.
 
-**Play: https://readingthinkin.github.io/beat-beach/**
+**Play:** https://greg.website/beat-beach/
 
-- Chrome or Edge: the game listens to the song and finds the beat by itself (you'll be asked
-  to share the tab's audio). Other browsers: tap along for a few seconds instead.
-- No link? There's a built-in beat.
-- Keyboard and mouse, or a game controller.
+- **Beat Beach FM:** four original songs, one per difficulty: Boardwalk Boom Bap (EASY,
+  '90s boom bap), Hyper Tide (MEDIUM, Y2K big beat), Riptide Riot (HARD, surf punk) and
+  Saltwater Jungle (EXPERT, drum & bass). Every beat is mapped, so they're perfectly in sync.
+- **Any song:** paste a YouTube link. In Chrome or Edge the game listens to the song and finds
+  the beat by itself (you'll be asked to share the tab's audio); in other browsers you tap
+  along for a few seconds instead.
+- **Critters:** crabs, hermit crabs (soak them on 2 and 4), seagulls, starfish (shoot them out
+  of the air), jellyfish in bubbles and pufferfish.
+- Keyboard and mouse, or a game controller (with rumble).
 
-This repository holds only the built game that GitHub Pages serves. Early build: expect rough edges.
+This repository holds only the built game that GitHub Pages serves. Early build: expect rough
+edges.

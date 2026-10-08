@@ -20,6 +20,9 @@ the beat counts double. Build a streak for ×2, ×3, ×4.
 - **Moves:** double jump, dash (and long jumps out of it), a cannonball slam from the air,
   bouncy beach umbrellas, stomping on critters, and grinding the strings of party lights
   between the palms (ollie on the beat!). All better on the beat.
+- **Hear the beat:** a metronome click on every beat and a ring that closes in on your
+  crosshair, so you always know when to shoot. Bluetooth headphones? Settings → CALIBRATE.
+- **Share:** copy a picture of your score straight from the results screen.
 - Keyboard and mouse, or a game controller (with rumble). Fireworks if you clear a song.
 
 This repository holds only the built game that GitHub Pages serves. Early build: expect rough
